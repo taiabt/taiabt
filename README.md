@@ -1,11 +1,11 @@
 寻龙分金看缠山,一重缠是一重关,关门如有八重险,不出阴阳八卦形</br></br>
 第一张图片：</br>
-![](https://github.com/taiabt/taiabt/blob/qmdj/1.png?raw=true)</br></br>
+![](https://github.com/taiabt/taiabt/blob/qmdj/1.jpg?raw=true)</br></br>
 第二张图片：</br>
-![](https://github.com/taiabt/taiabt/blob/qmdj/2.png?raw=true)</br></br>
+![](https://github.com/taiabt/taiabt/blob/qmdj/2.jpg?raw=true)</br></br>
 第三张图片：</br>
-![](https://github.com/taiabt/taiabt/blob/qmdj/3.png?raw=true)</br></br>
+![](https://github.com/taiabt/taiabt/blob/qmdj/3.jpg?raw=true)</br></br>
 第四张图片：</br>
-![](https://github.com/taiabt/taiabt/blob/qmdj/4.png?raw=true)</br></br>
+![](https://github.com/taiabt/taiabt/blob/qmdj/4.jpg?raw=true)</br></br>
 第五张图片：</br>
-![](https://github.com/taiabt/taiabt/blob/qmdj/5.png?raw=true)</br></br>
+![](https://github.com/taiabt/taiabt/blob/qmdj/5.jpg?raw=true)</br></br>
